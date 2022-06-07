@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Satyakammaurya123
-- 👀 I’m interested in data science related small projects...
-- 🌱 I’m currently learning web development...
-- 💞️ I’m looking to collaborate on full stack development programs...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Satyakam
+- 👀 I’m interested in data science related projects
+- 🌱 I’m currently learning full stack development
+- 💞️ I’m looking to collaborate on full stack development programs
+- 📫 How to reach me 20bme051@iiitdmj.ac.in
 
 <!---
 Satyakammaurya123/Satyakammaurya123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
