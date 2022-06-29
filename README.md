@@ -9,8 +9,7 @@ Satyakammaurya123/Satyakammaurya123 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-// README.md
-![Github stats]
-(https://github-readme-stats.vercel.app/api?username=Satyakammaurya123&theme=highcontrast&show_icons=true&count_private=true
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Satyakammaurya123&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyakammaurya123)
