@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 🧰 Toolbox
 
-<img src="https:///C:/Users/Satyakam/Downloads/c.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://worldvectorlogo.com/logo/c" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
