@@ -15,4 +15,3 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyakammaurya123)
 
 ![Follow](https://img.shields.io/github/followers/satyakam?style=social0)
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/satyakam?style=social">
