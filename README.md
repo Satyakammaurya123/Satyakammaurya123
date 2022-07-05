@@ -16,3 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 ![Follow](https://img.shields.io/github/followers/satyakam?style=social0)
 ![fork](https://img.shields.io/github/forks/satyakam/myrepo?style=social)
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
