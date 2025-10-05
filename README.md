@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science related projects
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on full stack development programs
-- 📫 How to reach me 20bme051@iiitdmj.ac.in
+- 📫 How to reach me satyakam519@gmail.com
 
 <!---
 Satyakammaurya123/Satyakammaurya123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
